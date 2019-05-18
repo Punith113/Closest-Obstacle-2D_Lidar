@@ -1,4 +1,4 @@
-# Welcome to Tier 2!
+# Basic Action With Sensor Data
 
-Welcome back! In this part we will cover some basic python exercises and you will do some basic work with plain sensor data.
+Finding the Nearest Obstacle from the Sensor Data 
 
